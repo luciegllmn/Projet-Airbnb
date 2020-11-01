@@ -6,3 +6,5 @@ Description des tâches que contiennent le projet :
 - Analyse descriptive des données
 - Etude des quartiers de Manhattan et Brooklyn
 - Exploration des données textuelles (Traitement automatique du langage naturel)
+
+Projet réalisé à l'aide du langage R, et plus particulièrement avec le package `tidyverse`.
